@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html lang="en-PH">
+	<head>
+	
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="css/normalize.css">
+		<link href='https://fonts.googleapis.com/css?family=Changa+One|Titillium+Web:400,40	700,600' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="css/main-style.css">
+		<link rel="stylesheet" href="css/responsive.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> </meta>
+		<title> POEM 💀❤️ </title>
+
+	</head>
+
+			
+			<header class="header-container clearfix"> 
+		<div class="ewan">
+			<div class="logo-info">
+				<h1> 💀  </h1>
+				<img src="image/blue.jpg">
+				<h3> 😁😂😍|Rurog 😂😝 </h3>
+			</div>
+			<div class="nav-bar">
+			<ul>
+					<li class=""> <a href="index.html">HOME</a> </li>
+					<li> <a href=""><a href="Long Message.html">Long Message</a> </li>
+					</ul>
+			</div>
+		</div>
+	</header>
+
+
+
+<div class="banner">
+
+			<img src="image/andrei1.jpg" style="height: 190px; width: 190px; border-radius: 100%; border: 1px solid black">
+			<h1> JUSH </h1>
+			<h3> ❤️ VEN. </h3>
+		</div>
+		<div class="wrapper">
+			<div class="home-container">
+			
+			<p> If I would have given a chance to say something before my last breath 
+          I would say that I love you until my death 
+          We will wait for years
+          But I have no fears 
+          My love for you is undying
+          If I lose you what is the sense of living?
+          Your love to me is everything
+          And for you, I’ll do anything 
+          You are not here beside me
+          But I hope someday you’ll be 
+
